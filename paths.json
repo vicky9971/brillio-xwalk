@@ -1,10 +1,5 @@
 {
   "mappings": [
-    "/content/brillio-eds/:/",
-    "/content/brillio-eds/configuration:/.helix/config.json",
-    "/content/brillio-eds/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/brillio-eds/"
+    "/content/brillio-eds/:/"
   ]
 }
