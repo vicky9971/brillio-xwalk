@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/brillio-eds-demo/:/",
-    "/content/brillio-eds-demo/configuration:/.helix/config.json",
-    "/content/brillio-eds-demo/metadata:/metadata.json"
+    "/content/abbott-eds/:/",
+    "/content/abbott-eds/configuration:/.helix/config.json",
+    "/content/abbott-eds/metadata:/metadata.json"
   ]
 }
